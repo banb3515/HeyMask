@@ -43,7 +43,7 @@
 
 > ### **빌드 방법**
 >
-> -   필요 라이브러리 - [빌드 방법 (Ubuntu)](https://www.notion.so/Hey-Mask-3148ffa35f3a4d53a6f3d350dcce538d#67e2f52458144e38b6299406e1047475)
+> -   필요 라이브러리 - [라이브러리 설치 (Ubuntu)](https://www.notion.so/Hey-Mask-3148ffa35f3a4d53a6f3d350dcce538d#67e2f52458144e38b6299406e1047475)
 >     -   [mpg123](https://www.mpg123.de/)
 >     -   [libao](https://www.xiph.org/ao/)
 >     -   [OpenCV 4.5.2](https://opencv.org/releases/)
