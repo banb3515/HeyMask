@@ -19,7 +19,7 @@
 
 > ### **Hey! Mask!란?**
 >
-> -   마스크를 착용하지 않은 사람을 탐지하면 탐지된 프레임을 캡처 후 [HeyMaskViewer](https://github.com/banb3515/HeyMaskViewer)로 전송합니다.
+> -   마스크를 착용하지 않은 사람을 탐지하면 탐지된 프레임을 캡처 후 [HeyMaskViewer](https://gitlab.com/banb3515/HeyMaskViewer)로 전송합니다.
 > -   뷰어에서 마스크를 착용하지 않았던 사람들을 확인할 수 있습니다.
 
 ---
