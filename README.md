@@ -4,7 +4,7 @@
 
 ---
 
-> ## **[Hey! Mask! 로드맵](https://www.notion.so/banb/Hey-Mask-3148ffa35f3a4d53a6f3d350dcce538d)**
+> ## **[Hey! Mask! 로드맵](https://banb.notion.site/Hey-Mask-d72244da6f5f4750a5d4550a7b80b95d)**
 
 ---
 
