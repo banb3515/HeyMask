@@ -1,6 +1,6 @@
 # **Hey! Mask!**
 
-> ### **[Portfolio - HeyMask](http://banb.work/Portfolio/HeyMask)**
+> ### **[Project - HeyMask](http://banb.work/Project/HeyMask)**
 
 ---
 
